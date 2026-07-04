@@ -1,0 +1,6 @@
+KAGE_REPORT.md
+WARDEN_REPORT*.md
+.env
+.venv/
+__pycache__/
+.adk/
