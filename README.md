@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="assets/logo.png" alt="KAGE Logo" width="600"/>
+</div>
+
 # KAGE
 ### Autonomous dependency vulnerability triage agent
 
@@ -86,6 +90,8 @@ project root.
 ```bash
 python main.py sample_project/requirements.txt
 ```
+
+<img src="assets/cli_screenshot.png" alt="KAGE CLI Screenshot" width="800"/>
 
 **ADK's built-in visual inspector** — shows every tool call/response as it
 happens in a browser UI, good as a second angle for the video or for your
