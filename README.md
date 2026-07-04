@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/logo.png" alt="KAGE Logo" width="600"/>
+  <img src="assets/kage.png" alt="KAGE Logo" width="600"/>
 </div>
 
 # KAGE
